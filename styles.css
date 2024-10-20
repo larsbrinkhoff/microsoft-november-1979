@@ -1,0 +1,88 @@
+body {background-color: #000027;}
+
+h1 {font-family: times new roman, serif; font-size: 60pt; font-style: normal; color: #ffffe7; text-align: center;}
+
+h2 {font-family: times new roman, serif; font-size: 24pt; font-style: normal; color: #ffffe7; text-align: center;}
+
+h3, th, dt {font-family: times new roman, serif; font-size: 20pt; font-style: normal; color: #ffffe7;}
+
+hr {color: #aaaafa; size: 4px;}
+
+p, li, td, dd, label {font-family: times new roman, serif; font-size: 13pt; font-style: normal; color: #ffffe7;}
+
+td {width: 220px}
+
+img {border: 0px}
+
+a:link {background: #000030; color: #aaaafa; text-decoration: none;}
+a:visited {background: #000030; color: #aaaafa; text-decoration: none;}
+a:hover {background: #000060; color: #aaaafa; text-decoration: none;}
+a:active {background: #000030; color: #aaaafa; text-decoration: none;}
+
+
+.page {width: 100%; float: left;}
+.column-240 {width: 240px; float: left; padding: 0px 10px 10px 10px;}
+.column-280 {width: 280px; float: left; padding: 0px 10px 10px 10px;}
+.column-380 {width: 380px; float: left; padding: 10px 10px 10px 10px;}
+.column-500 {width:500px; float: left; padding: 2px 2px 2px 2px;}
+.column-1000 {width:1000px; float: left; padding: 2px 2px 2px 2px;}
+
+.links {float: both; padding: 84px 0px 0px 0px;}
+
+.h420 {height: 420px; width: 420px padding: 81px 30px 81px 30px;}
+.v420 {height: 420px; width: 420px padding: 30px 81px 30px 81px;}
+
+.h {height: 140px; width: 140px; padding: 27px 10px 27px 10px;}
+.v {height: 140px; width: 140px; padding: 10px 27px 10px 27px;}
+
+
+.hl {height: 256px; width: 256px; padding: 68px 38px 68px 38px;}
+.vl {height: 256px; width: 256px; padding: 38px 68px 38px 68px;}
+
+
+
+
+div.pic {float: left; height: 480px; width: 480px; padding: 0px; margin: 6px 6px; background: #eee; border: 3px solid; border-color: #aaa #333 #333 #aaa;}
+
+div.h1x1 img{height: 420px; width: 420px; margin: 30px 30px; border: 3px solid; border-color: #333 #aaa #aaa #333;}
+
+div.h1x2 img{height: 210px; width: 420px; margin: 135px 30px; border: 3px solid; border-color: #333 #aaa #aaa #333;}
+
+div.h1x3 img{height: 140px; width: 420px; margin: 170px 30px; border: 3px solid; border-color: #333 #aaa #aaa #333;}
+
+
+div.h5x7 img{height: 300px; width: 420px; margin: 90px 30px; border: 3px solid; border-color: #333 #aaa #aaa #333;}
+div.v5x7 img{height: 420px; width: 300px; margin: 30px 90px; border: 3px solid; border-color: #333 #aaa #aaa #333;}
+
+div.h4x6 img{height: 280px; width: 420px; margin: 100px 30px; border: 3px solid; border-color: #333 #aaa #aaa #333;}
+div.v4x6 img{height: 420px; width: 280px; margin: 30px 100px; border: 3px solid; border-color: #333 #aaa #aaa #333;}
+
+div.h4x5 img{height: 336px; width: 420px; margin: 72px 30px; border: 3px solid; border-color: #333 #aaa #aaa #333;}
+div.v4x5 img{height: 420px; width: 336px; margin: 30px 72px; border: 3px solid; border-color: #333 #aaa #aaa #333;}
+
+
+#button {font-family: ariel, sans-serif; font-size: 13pt; font-style: normal; color: #aaaafa; text-align: center; padding: 5px; border: 2px solid #aaaafa;}
+
+#button {line-height: 215%}
+
+#formlabel {text-align: right;}
+
+/*
+     FILE ARCHIVED ON 00:47:45 Aug 20, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:54:14 Oct 20, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.487
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.008
+  esindex: 0.01
+  cdx.remote: 38.667
+  LoadShardBlock: 78.239 (3)
+  PetaboxLoader3.datanode: 82.374 (4)
+  load_resource: 12.371
+*/
